@@ -7,5 +7,7 @@
   <br>The dataset was taken from kaggle challenge for Facial Expression Recognition https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-        challenge
   
   ## Installation
-    Run the main.py file to run the project.    
+    After downloading the project run the following command<br>
+    python main.py
+    .    
 
