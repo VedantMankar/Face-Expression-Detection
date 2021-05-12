@@ -4,9 +4,8 @@
   A CNN Model was used to train the images and classify the emotions
   A Haar Cascade classifier was used to detect the face.<br>
  ## Dataset
-  <br>The dataset was taken from kaggle challenge for Facial Expression Recognition https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-        challenge
-  
+  <br>The dataset was taken from kaggle challenge for Facial Expression Recognition https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-        challenge<br>
+  After installing the project files run the below command
   ## Installation
-    <text>After downloading the project run the following command<text><br>
     python main.py
 
