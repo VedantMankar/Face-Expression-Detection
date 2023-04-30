@@ -41,9 +41,10 @@ ModelWeights.h5
 haarcascade_frontalface_default.xml
 
 
-run the following line
+run the following line <br>
+```
 python main.py
-
+```
 
 
   
